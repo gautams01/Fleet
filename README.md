@@ -51,20 +51,6 @@ Fleet capacity comes from a roofline model of transformer inference, not rules o
 
 Every assumption that matters is exposed as a labeled control with a stated default rather than buried in the code.
 
-## Running it
-
-This repo is a ready-to-run Vite project:
-
-```bash
-npm install
-npm run dev      # local dev server
-npm run build    # production build to dist/
-```
-
-**Deploying to Vercel:** push this repo to GitHub, then at vercel.com choose "Add New → Project", import the repo, and click Deploy. Vercel auto-detects Vite — no configuration needed. You'll get a live URL, and every push to `main` redeploys automatically. (Netlify and GitHub Pages work the same way with a Vite build.)
-
-Fonts (IBM Plex Mono / Sans, Inter, JetBrains Mono) load from Google Fonts at runtime.
-
 ## Repo contents
 
 | File | Description |
