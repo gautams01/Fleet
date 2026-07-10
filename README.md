@@ -1,5 +1,7 @@
 # Inference Cost Modeler
 
+https://fleet-umber.vercel.app/
+
 An interactive model of LLM inference economics from both sides of the market, in a single React dashboard with two tabs:
 
 - **Buyer-side** — you run inference workloads. Size the GPU fleet a workload needs, compare self-hosting against API pricing, and work through the commitment economics (on-demand vs. reserved vs. spot vs. owned hardware).
